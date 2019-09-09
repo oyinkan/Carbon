@@ -1,0 +1,23 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+* {
+    outline: none!important;
+}
+nav {
+     background-color: #071a2d;
+}
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 16px;
+  color: #fff;
+  padding-right: 30px;
+}
+.btn.btn-create{
+  border-radius: 6px;
+  background-color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  color: #000000;
+}   
