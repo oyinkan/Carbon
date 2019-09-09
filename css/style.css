@@ -7,6 +7,12 @@ body {
 nav {
      background-color: #071a2d;
 }
+.navbar {
+    padding: 1rem;
+}
+.container-fluid {
+    width: 94%;
+}
 .navbar-dark .navbar-nav .nav-link {
   font-size: 16px;
   color: #fff;
@@ -21,3 +27,20 @@ nav {
   text-align: center;
   color: #000000;
 }   
+.accept-wrapper {
+  background-color: #320fa8;
+  padding: 60px 0;
+   color: #ffffff;
+}
+.accept-wrapper h1 {
+  font-size: 72px;
+  width: 50%;
+  font-weight: 800;
+  line-height: 1.11;
+}
+.accept-wrapper p {
+    width: 30%;
+  opacity: 0.8;
+  font-size: 20px;
+  line-height: 1.4;
+}
